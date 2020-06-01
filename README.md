@@ -1,2 +1,2 @@
-# hellfire
-Um efeito de fogo criado com JS+HTML+css
+# DoomHellfire
+Um efeito de fogo criado com JS+HTML+CSS.
